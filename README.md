@@ -1,5 +1,5 @@
 # Probability-and-Statistics-Reviews
-This repository is a part of medium blog about using python to illustrate probability theory.
+This repository is a part of medium blogs about illustrating probability theory using python.
 The name of probability topic is in the file's title.
 
 ## Medium Links (should read in order)
@@ -7,4 +7,4 @@ The name of probability topic is in the file's title.
 2. Illustration with Python Central Limit Theorem.ipynb is for this [medium](https://medium.com/@c.chaipitakporn/illustration-with-python-central-limit-theorem-aa4d81f7b570) 
 3. Illustration with Python Weak Law of Large Numbers.ipynb is for this [medium](https://medium.com/@c.chaipitakporn/illustration-with-python-weak-law-of-large-numbers-2a644b862985)
 
-You can ignore overall.ipynb file because the explaination in the file is incorrect.
+You can ignore the overall.ipynb file because the explaination in the file is incorrect.
