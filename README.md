@@ -1,4 +1,4 @@
-# Probability-and-Statistics-Reviews
+# Probability and Statistics Reviews
 This repository is a part of medium blogs about illustrating probability theory using python.
 The name of probability topic is in the file's title.
 
